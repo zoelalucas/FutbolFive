@@ -1,0 +1,9 @@
+@CHARSET "ISO-8859-1";
+td{
+    border:1px solid #000;
+}
+
+tr td:last-child{
+    width:1%;
+    white-space:nowrap;
+}

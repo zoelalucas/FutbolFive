@@ -1,2 +1,0 @@
-# FutbolFive
-Proyecto en JAVA
