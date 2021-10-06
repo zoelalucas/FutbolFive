@@ -97,17 +97,17 @@
  
     <context-param>
         <param-name>port</param-name>
-        <param-value>587</param-value>
+        <param-value>puerto</param-value>
     </context-param>
  
     <context-param>
         <param-name>user</param-name>
-        <param-value>futbolfiverosario@gmail.com</param-value>
+        <param-value>correo@dominio.com</param-value>
     </context-param>
  
     <context-param>
         <param-name>pass</param-name>
-        <param-value>proyecto2020</param-value>
+        <param-value>password</param-value>
     </context-param>
  
     <welcome-file-list>
